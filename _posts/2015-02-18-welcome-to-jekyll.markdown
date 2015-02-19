@@ -8,7 +8,6 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-<iframe src="//player.vimeo.com/video/119611828" width="500" height="281" frameborder="0" </iframe>
 
 Jekyll also offers powerful support for code snippets:
 
@@ -20,7 +19,9 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-<iframe src="//player.vimeo.com/video/119611828" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/119611828">Beech Street</a> from <a href="https://vimeo.com/user2307478">Ian Young</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/119611828" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="//player.vimeo.com/video/119611828" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/119611828">Beech Street</a> from <a href="https://vimeo.com/user2307478">Ian Young</a> on <a href="https://vimeo.com">Vimeo</a> </p>
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
